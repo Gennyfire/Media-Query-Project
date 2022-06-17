@@ -15,7 +15,7 @@ body {
 
 .main-container {
     background-color: hsl(0, 100%, 74%);
-    background-image: url(/Images/bg-intro-desktop.png);
+    background-image: url(bg-intro-desktop.png);
     width: 100%;
 }
 
